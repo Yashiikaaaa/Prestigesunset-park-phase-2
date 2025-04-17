@@ -73,7 +73,7 @@ export const Navbar = ({ sitevisitmodal, setSiteVisitModal, setContactModal }) =
           >
             <img
               src={logo}
-              className="h-10 md:h-10"
+              className="h-20 md:h-20"
               alt="Sattva Hamlet"
             />
           </a>
