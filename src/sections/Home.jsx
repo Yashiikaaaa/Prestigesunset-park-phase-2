@@ -63,7 +63,7 @@ export const Home = ({ contactmodal, setContactModal }) => {
 
                 {/* Subtitle */}
                 <p className="font-body text-white md:text-2xl text-sm font-normal lg:w-4/6 mx-auto lg:mx-0">
-                A Premium Plotted Development in Devanhalli
+                A Premium Plotted Development in Devanhalli.
                   
                 </p>
               </div>
