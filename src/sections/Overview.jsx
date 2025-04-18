@@ -25,7 +25,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
             <span>
             <p>The project has 35+ modern amenities, including children’s play areas, fitness centres, swimming pools, a spa, a gym, a library, etc.   </p>
             <br/>
-            <p>These ready to build plots in Bangalore come with wide internal roads and underground utilities. Whether you’re planning to construct your dream home or invest in residential plots near Bangalore Airport, this is the place for you.</p>
+            <p>These ready to build plots in Bangalore come with wide internal roads and underground utilities. Whether you’re planning to construct your dream home or invest in residential plots near Bangalore Airport, Prestige Gardenia is the perfect place.</p>
 
             
 
