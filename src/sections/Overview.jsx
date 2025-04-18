@@ -17,7 +17,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           </h1>
           <p className="max-w-2xl md:text-base text-sm text-black font-body font-light">
           <span className="font-body font-bold text-xs md:text-lg ">
-         Prestige Gardenia – Premium Plotted Development in Devanahalli <p>The plotted development extends over an area of 50 acres and hosts the best plots of dimension range of 1,500 sq ft to 4,000 ft in the heart of the city. </p>
+         Prestige Gardenia – Premium Plotted Development in Devanahalli. <p>The plotted development extends over an area of 50 acres and hosts the best plots of dimension range of 1,500 sq ft to 4,000 ft in the heart of the city. </p>
 
           </span>
           <br />
