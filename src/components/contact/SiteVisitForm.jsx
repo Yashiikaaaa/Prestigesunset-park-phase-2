@@ -152,7 +152,7 @@ export const SiteVisitForm = ({ sitevisitmodal, setSiteVisitModal }) => {
   
     const propertyId = "bN8bKHTxVS1JHXUFr8Pp"; // Example property ID
     const projectName = "prestige Gardenia Estate"; // Example project name
-  const currentAgent = "yasswanth@truestate.in";
+  const currentAgent = "shaun@truestate.in";
     const payload = {
       name: normalizedName,
       phonenumber: normalizedNumber,

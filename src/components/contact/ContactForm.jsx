@@ -114,7 +114,7 @@ const ContactForm = ({ contactmodal, setContactModal, setSiteVisitModal }) => {
       campaign: true,
       projectId: "bN8bKHTxVS1JHXUFr8Pp",
       projectName: "prestige Gardenia Estate",
-      currentAgent: "yasswanth@truestate.in",
+      currentAgent: "shaun@truestate.in",
       utmDetails: {
         source: utmParams.utmSource || null,
         medium: utmParams.utmMedium || null,
