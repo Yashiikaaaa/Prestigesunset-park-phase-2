@@ -15,7 +15,7 @@ import { WhatsApp } from "./components/contact/WhatsApp";
 import Pricing from "./sections/Pricing";
 import { MasterPlan } from "./sections/MasterPlan";
 import { Gallery } from "./sections/Gallery";
-import { SiteVisitForm } from "./components/contact/SiteVisitForm";
+// import { SiteVisitForm } from "./components/contact/SiteVisitForm";
 import  ContactForm  from "./components/contact/ContactForm";
 // import { FloorPlan } from "./sections/FloorPlan";
 // import { Highlights } from "./sections/Highlights";
@@ -61,12 +61,12 @@ export const PageRoute = () => {
 
   return (
     <BrowserRouter>
-     {sitevisitmodal && (
+     {/* {sitevisitmodal && (
         <SiteVisitForm
           sitevisitmodal={sitevisitmodal}
           setSiteVisitModal={setSiteVisitModal}
         />
-      )}
+      )} */}
       {contactmodal && (
         <ContactForm
           contactmodal={contactmodal}

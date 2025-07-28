@@ -21,16 +21,16 @@ export const Location = () => {
               <div className="flex items-center justify-center md:justify-start">
                 <img src={mapPointer} alt="Map Pointer" className="w-3 h-3 md:w-5 md:h-5 mr-2" />
                 <p className="text-xs md:text-xl font-body font-medium">
-                  STRR, Devanahalli, Bengaluru
+                  IVC Road, North Bengaluru
                 </p>
               </div>
             </div>
 
             <ol className='text-left font-body text-xs md:text-base list-disc font-medium pl-1 md:pl-5 hidden sm:block space-y-3'>
-                <li className=''>Airport - 15 km</li>
-                <li className=''>Aerospace Park - 10 kms</li>
-                <li className=''>Vishwanathapura Lake - 7 kms</li>
-                <li className=''>Yelahanka New Town- 12 kms</li>
+                <li className=''>Seamless access to Bengaluru International Airport</li>
+                <li className=''>Well-connected via NH-44, STRR d</li>
+                <li className=''>Direct routes to Yelahanka, Hebbal, and Devanahalli IT corridors.</li>
+                <li className=''>Easy access to upcoming Peripheral Ring Road.</li>
                 
                 {/* <li className=''>10 mins- Decathon Chandapura Market </li> */}
             </ol>
@@ -41,19 +41,21 @@ export const Location = () => {
             <Button 
               text="Open in Google Maps" // Button text
               className="whitespace-nowrap"  // Prevent text wrapping
-              onClick={() => window.open("https://maps.app.goo.gl/ANAPhAPmTKwexKkT9", "_blank")} // Opens Google Maps link in a new tab
+              onClick={() => window.open("https://maps.app.goo.gl/pkySgK4DWZvsdXhG9", "_blank")} // Opens Google Maps link in a new tab
             />
           </div>
         </div>
               {/* Google Maps Iframe */}
         <div className="w-full flex justify-center">
           <div className="w-full max-w-4xl aspect-w-16 aspect-h-9 min-h-[60vh]">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3883.1039554312683!2d77.66872727484706!3d13.281443787063171!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb1e31cd37f36cd%3A0x5aec9c20042ea280!2sPrestige%20Gardenia%20Estate!5e0!3m2!1sen!2sin!4v1744887240053!5m2!1sen!2sin" className="w-full h-full"
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3883.914876516321!2d77.6158652748461!3d13.230658487109034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1f055bccc545%3A0xdfedbe0da7f8b47a!2sPrestige%20Sunset%20park!5e0!3m2!1sen!2sin!4v1753699958810!5m2!1sen!2sin" 
+   className="w-full h-full"
               style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
+            "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3883.914876516321!2d77.6158652748461!3d13.230658487109034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1f055bccc545%3A0xdfedbe0da7f8b47a!2sPrestige%20Sunset%20park!5e0!3m2!1sen!2sin!4v1753699958810!5m2!1sen!2sin" 
           </div>
         </div>
 

@@ -17,15 +17,15 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           </h1>
           <p className="max-w-2xl md:text-base text-sm text-black font-body font-light">
           <span className="font-body font-bold text-xs md:text-lg ">
-         Prestige Gardenia – Premium Plotted Development in Devanahalli. <p>The plotted development extends over an area of 50 acres and hosts the best plots of dimension range of 1,500 sq. ft. to 4,000 sq. ft. in the heart of the city. </p>
+         Prestige Sunset Park Phase 2 – Premium Plotted Development on IVC Road, North Bengaluru. <p>The plotted development extends over an area of 20 acres and hosts the best plots of dimension range of 1,200 sq. ft. to 4,000 sq. ft. in the heart of the city. </p>
 
           </span>
           <br />
           
             <span>
-            <p>The project has 35+ modern amenities, including children’s play areas, fitness centres, swimming pools, a spa, a gym, a library, etc.   </p>
+            <p>The project has 40+ modern amenities, including children’s play areas, fitness centres, swimming pools, a spa, a gym, a library, etc.   </p>
             <br/>
-            <p>These ready to build plots in Bangalore come with wide internal roads and underground utilities. Whether you’re planning to construct your dream home or invest in residential plots near Bangalore Airport, Prestige Gardenia is the perfect place.</p>
+            <p>These ready to build plots in Bangalore come with wide internal roads and underground utilities. Whether you’re planning to construct your dream home or invest in residential plots near Bangalore Airport, Prestige Sunset Park Phase 2 is the perfect place.</p>
 
             
 
@@ -47,7 +47,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           <div className="w-full h-auto flex justify-center border-PrestigeDarkGrey">
             <img
               src={image}
-              alt="Prestige Gardenia"
+              alt="Prestige Sunset Park Phase 2"
               className=" w-[420px] h-[300px]"
             />
           </div>

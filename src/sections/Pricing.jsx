@@ -5,7 +5,7 @@ import bhk2 from '../assets/gallery/image9.png';
 import bhk3 from '../assets/gallery/16.webp';
 import bhk5 from '../assets/gallery/image2.jpg';
 import bhk4 from '../assets/home/HOME.webp';
-
+import bhk6 from '../assets/gallery/gallery_7.png';
 const Pricing = ({ setContactModal, contactmodal, formSubmitted }) => {
   const [activeTab, setActiveTab] = useState(0);
   const [isUnlocked, setIsUnlocked] = useState(false);
@@ -24,9 +24,11 @@ const Pricing = ({ setContactModal, contactmodal, formSubmitted }) => {
   };
 
   const propertyTypes = [
+    { type: "1,200 sq.ft ", price: "₹ 3.25 Cr ++",  image: bhk6 },
+    { type: "1,500 sq.ft ", price: "₹ 3.25 Cr ++",  image: bhk5 },
 
-    { type: "2,400 sq.ft ", price: "₹ 3.25 Cr ++",  image: bhk5 },
-    { type: "4,000 sq.ft ", price: "₹ 3.25 Cr ++",  image: bhk5 },
+    { type: "2,400 sq.ft ", price: "₹ 3.25 Cr ++",  image: bhk1 },
+    { type: "4,000 sq.ft ", price: "₹ 3.25 Cr ++",  image: bhk2 },
     // { type: "4 BHK Grande", price: "₹ 3.55 Cr ++", size: "2203 Sq.ft.", image: bhk2 },
   ];
 
