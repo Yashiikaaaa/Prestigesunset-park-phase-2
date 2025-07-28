@@ -58,12 +58,12 @@ export const Home = ({ contactmodal, setContactModal }) => {
               <div className="flex gap-4 flex-col w-full">
                 {/* Main Title */}
                 <h1 className="font-subheading text-3xl md:text-6xl font-semibold uppercase">
-                 Prestige Sunset Park Phase 2
+                 Prestige IVC Road
                 </h1>
 
                 {/* Subtitle */}
                 <p className="font-body text-white md:text-2xl text-sm font-normal lg:w-4/6 mx-auto lg:mx-0">
-                A Premium Plotted Development in North Bnaglore
+                Premium Plotted Development
                   
                 </p>
               </div>
@@ -101,7 +101,7 @@ export const Home = ({ contactmodal, setContactModal }) => {
               className="h-3 md:h-6 text-black"
             />
             <p className="max-w-96 font-body text-left text-black md:text-2xl text-xs font-medium leading-[130%]">
-            IVC Road{/* Location name */}
+            North Bangalore{/* Location name */}
             </p>
           </div>
         </div>
