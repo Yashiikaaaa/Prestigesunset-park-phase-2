@@ -55,8 +55,7 @@ export const Location = () => {
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
-            "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3883.914876516321!2d77.6158652748461!3d13.230658487109034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1f055bccc545%3A0xdfedbe0da7f8b47a!2sPrestige%20Sunset%20park!5e0!3m2!1sen!2sin!4v1753699958810!5m2!1sen!2sin" 
-          </div>
+                 </div>
         </div>
 
       </div>
