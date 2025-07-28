@@ -28,7 +28,7 @@ export const Location = () => {
 
             <ol className='text-left font-body text-xs md:text-base list-disc font-medium pl-1 md:pl-5 hidden sm:block space-y-3'>
                 <li className=''>Seamless access to Bengaluru International Airport</li>
-                <li className=''>Well-connected via NH-44, STRR d</li>
+                <li className=''>Well-connected via NH-44, STRR</li>
                 <li className=''>Direct routes to Yelahanka, Hebbal, and Devanahalli IT corridors.</li>
                 <li className=''>Easy access to upcoming Peripheral Ring Road.</li>
                 
